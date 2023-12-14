@@ -1,1 +1,1 @@
-# message-board
+Message Board using Express and MongoDB
